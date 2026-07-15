@@ -42,7 +42,8 @@ Seu principal objetivo é disponibilizar uma estrutura robusta para operações 
 - Disponibilizar documentação organizada
 - Servir como projeto de portfólio
 
----
+---<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/340e08c9-9233-4b77-84a5-1abcd42672ea" />
+
 
 # 🚀 Funcionalidades
 
